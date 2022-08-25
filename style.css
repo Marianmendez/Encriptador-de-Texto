@@ -219,3 +219,192 @@ footer a{
 footer a:hover{
     color: #000000;
 }
+
+@media (max-width:480px){
+
+    .titulo{
+        position:absolute;
+        top:30px;
+        left:120px;
+        font-size: 24px;
+    }
+    
+    .texto_encriptar{
+        position: absolute;
+        top: 150px;
+        left: 75px;
+        font-size: 18px;
+    }
+
+    .texto_box{
+        width: 250px;
+        height: 350px;
+        position: absolute;
+        top: 200px;
+        left: 85px;
+        background-color: aliceblue;
+        font-size: 16px;
+    }
+
+    .alerta{
+        display: none;
+    }
+    
+    .alerta2{
+        display: none;
+    }
+    
+    .alerta_texto{
+        position: absolute;
+        top: 600px;
+        left: 20px;
+        font-size: 11px;
+    }
+
+    .encriptar{
+        position:absolute;
+        top: 620px;
+        left: 10px;
+        width: 100px;
+        height: 45px;
+        margin-left: 90px;
+        font-size: 14px;
+    }
+
+    .desencriptar{
+        position:absolute;
+        top: 620px;
+        left: 150px;
+        width: 100px;
+        height: 45px;
+        margin-left: 90px;
+        font-size: 14px;
+    }
+
+    .mensaje{
+        position: absolute;
+        width: 250px;
+        height: 350px;
+        margin-left: 85px;
+        margin-top: 700px;
+        font-size: 16px;
+        background-image: none;
+    }
+
+    .boton_copiar{
+        position: absolute;
+        top: 1100px;
+        left: 150px;
+    }
+
+    .titulo3{
+        position: absolute;
+        left: 105px;
+        top: 800px;
+        font-size: 16px;
+    }
+
+    .solicitud_texto{
+        display: none;
+    }
+
+    .footer1{
+        position: absolute;
+        top: 1150px;
+    }
+}
+
+@media (max-width: 1000px){
+
+        .titulo{
+            position:absolute;
+            top:30px;
+            left:290px;
+            font-size: 24px;
+        }
+        
+        .texto_encriptar{
+            position: absolute;
+            top: 120px;
+            left: 260px;
+            font-size: 18px;
+        }
+    
+        .texto_box{
+            width: 600px;
+            height: 350px;
+            position: absolute;
+            top: 150px;
+            left: 65px;
+            background-color: aliceblue;
+            font-size: 16px;
+        }
+    
+        .alerta{
+            display: none;
+        }
+        
+        .alerta2{
+            display: none;
+        }
+        
+        .alerta_texto{
+            position: absolute;
+            top: 550px;
+            left: 90px;
+            font-size: 16px;
+        }
+    
+        .encriptar{
+            position:absolute;
+            top: 600px;
+            left: 120px;
+            width: 120px;
+            height: 50px;
+            margin-left: 90px;
+            font-size: 14px;
+        }
+    
+        .desencriptar{
+            position:absolute;
+            top: 600px;
+            left: 300px;
+            width: 120px;
+            height: 50px;
+            margin-left: 90px;
+            font-size: 14px;
+        }
+    
+        .mensaje{
+            position: absolute;
+            width: 600px;
+            height: 350px;
+            margin-left: 65px;
+            margin-top: 700px;
+            font-size: 16px;
+            background-image: none;
+        }
+    
+        .boton_copiar{
+            position: absolute;
+            top: 1100px;
+            left: 310px;
+        }
+    
+        .titulo3{
+            position: absolute;
+            left: 105px;
+            top: 800px;
+            font-size: 16px;
+        }
+    
+        .solicitud_texto{
+            display: none;
+        }
+    
+        .footer1{
+            position: absolute;
+            top: 1150px;
+        }
+
+}
