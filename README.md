@@ -1,7 +1,7 @@
 # Encriptador-de-Texto
 Encriptador de Texto - Programa Alura Oracle
 
-Encriptador de textos para Challenge 1 de Alura Latam - Oracle ONE
+<b>Encriptador de textos para Challenge 1 de Alura Latam - Oracle ONE</b>
 
 En las líneas siguientes verán la solicitud del trabajo:
 
